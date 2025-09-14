@@ -1,0 +1,13 @@
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\pageObjects\AddClassPage.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\pageObjects\BasePage.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\pageObjects\SchoolPage.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\pageObjects\SelfRegistrationPage.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\pageObjects\SignInPage.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\testBase\BaseClass.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\testCases\TC001_SelfRegistration.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\testCases\TC002_SignInTestWithValid.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\testCases\TC003_SignInUsingDDT.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\testCases\TC004_AddClassTestCase.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\utilities\DataProviders.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\utilities\ExcelUtility.java
+C:\Resume\Automation_material\AutomationWorkPlace\Evotext\HybridFramework\src\test\java\utilities\ExtentReportManager.java
